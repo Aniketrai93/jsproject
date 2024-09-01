@@ -1,0 +1,45 @@
+.show{
+    display: block;
+}
+.hide{
+    display: none;
+    
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    padding: 10px;
+}
+body{
+    background-color: #000;
+    height: 100vh;
+    width: 100vh;
+    
+}
+.faq-list{
+    color:#fff;
+    
+}
+
+#ques{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   padding: 10px;
+   cursor: pointer;
+   
+    
+}
+
+.faq{
+    margin-bottom: 4px;
+    background-color: #2D2D2D;
+    font-size: 20px;
+
+    
+}
+.anss{
+    width: 100vh;
+    font-size: 20px;
+    text-align: center;
+}
